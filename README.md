@@ -1,14 +1,14 @@
 # Predicting Lift with Twitter's 1st Party Advertising Pixel
 
 # Introduction
-This project explored the potential lift in conversion tracking an advertiser could see when switching from third-party pixels (3PP) to Twitter's 1st party pixel. By leveraging synthetic data to simulate user interactions and applying OLS regression modeling, we aimed to provide advertisers with insights into the benefits of using 1PP.
+This project explored the potential lift in conversion tracking an advertiser could see when switching from third-party pixels (3PP) to Twitter's 1st party pixel. By leveraging synthetic data to simulate user interactions and applying OLS regression modeling, we aimed to provide advertisers with insights into the benefits of using Twitter's first party pixel. 
 
 # Data
 Synthetic Data
 Generated to simulate the behavior of users interacting with ads. This dataset reflects user interactions under two distinct scenarios:
 
-- Interactions without the benefits of 1PP.
-- Interactions with the incorporation of 1PP.
+- Interactions without the benefits of Twitter's first party pixel.
+- Interactions with the incorporation of Twitter's first party pixel.
 - Real Data (Twitter's actual user data, which was used to validate the model built on synthetic data). 
 
 # Methodology
