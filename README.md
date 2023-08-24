@@ -1,5 +1,5 @@
 # Predicting Lift with Twitter's 1st Party Advertising Pixel
-# Internally known as Lower Funnel Click ID (LFCLID) 
+Internally known as Lower Funnel Click ID (LFCLID) 
 
 # Introduction
 This project explored the potential lift in conversion tracking an advertiser could see when switching from 3rd party pixels to Twitter's 1st party pixel. By leveraging synthetic data to simulate user interactions and applying OLS regression modeling, we aimed to provide advertisers with insights into the benefits of using Twitter's first party pixel. 
